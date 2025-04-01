@@ -1,0 +1,16 @@
+2025-01-23 22:30: Experiment log path in: /mnt/RAID/opencity/model_weights/KDMLP
+2025-01-23 22:30:   train loss is:  457.88075065612793  current_lr is:  0.0055 grad_norm is:  13.932900428771973
+2025-01-23 22:30: **********Val Epoch 0: average Loss: 3.974221
+2025-01-23 22:30: Average Horizon, MAE: 1.85, RMSE: 5.19, MAPE: 57.5736%, CORR:0.2818
+2025-01-23 22:30: *********************************Current best model saved!
+2025-01-23 22:30: Saving current best model to /mnt/RAID/opencity/model_weights/KDMLP/OpenCity.pth
+2025-01-23 22:30:   train loss is:  139.7858043909073  current_lr is:  0.0055 grad_norm is:  11.892060279846191
+2025-01-23 22:30: **********Val Epoch 1: average Loss: 3.154958
+2025-01-23 22:30: Average Horizon, MAE: 1.68, RMSE: 4.20, MAPE: 43.8743%, CORR:0.2645
+2025-01-23 22:30: *********************************Current best model saved!
+2025-01-23 22:30: Saving current best model to /mnt/RAID/opencity/model_weights/KDMLP/OpenCity.pth
+2025-01-23 22:30:   train loss is:  119.09909963607788  current_lr is:  0.0055 grad_norm is:  2.3639578819274902
+2025-01-23 22:30: **********Val Epoch 2: average Loss: 3.000550
+2025-01-23 22:30: Average Horizon, MAE: 1.77, RMSE: 4.02, MAPE: 45.1406%, CORR:0.2727
+2025-01-23 22:30: *********************************Current best model saved!
+2025-01-23 22:30: Saving current best model to /mnt/RAID/opencity/model_weights/KDMLP/OpenCity.pth

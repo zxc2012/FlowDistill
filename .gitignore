@@ -1,0 +1,5 @@
+__pycache__/
+data/NYC_TAXI/
+easyst/
+log/
+pems*.npz
